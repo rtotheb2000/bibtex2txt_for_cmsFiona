@@ -4,8 +4,7 @@
 
 This python script converts a single bibtex file to a tab stop seperated text file in utf-8 format using pybtex:
 
-### pybtex
-(https://pypi.python.org/pypi/pybtex)
+**pybtex** (https://pypi.python.org/pypi/pybtex)
 
 If you are missing this module, I recomment using pip (https://pypi.python.org/pypi/pip) to install it.
 
