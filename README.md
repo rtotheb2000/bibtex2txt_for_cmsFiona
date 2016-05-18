@@ -23,4 +23,4 @@ which is in principle is the type article.
 The generated text file can be used to import a dublin core entry (https://en.wikipedia.org/wiki/Dublin_Core) in the content management system of the Freie Universitaet Berlin (Fiona).
 In Fiona create a directory using the template "Publikationsliste (Dublin Core)" or use an existing "Publikationsliste (Dublin Core)" directory.
 Click on this directory and then use Datei -> CSV-Datei importieren und konvertieren.
-Choose utf-8 as encoding and select the text file you created using this python script.
+Choose utf-8 as encoding and select the text file you have created using this python script.
