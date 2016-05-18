@@ -1,14 +1,17 @@
 # bibtex2txt_for_cmsFiona
 
-This python script converts a single bibtex file to a tab stop seperated text file in utf-8 format using the following python modules:
+## Description
 
-io,
-re,
-pybtex
+This python script converts a single bibtex file to a tab stop seperated text file in utf-8 format using pybtex:
 
-If you are missing one of those modules, I recomment using pip (https://pypi.python.org/pypi/pip) to install them.
+### pybtex
+(https://pypi.python.org/pypi/pybtex)
 
-Run from terminal by switching to the directory, you saved the script, in and type:
+If you are missing this module, I recomment using pip (https://pypi.python.org/pypi/pip) to install it.
+
+## How to use
+
+Run the script from terminal by switching to the directory, you saved the script, in and type:
 
 python singleBib2TxtPybtexVersion.py
 
