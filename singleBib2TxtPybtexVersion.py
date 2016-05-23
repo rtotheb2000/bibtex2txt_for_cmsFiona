@@ -103,5 +103,4 @@ if __name__ == "__main__":
     bib_string = bib_data.to_string("bibtex")
     single_bib2str = Bib2Str(bib_string)
     single_bib2str.write_txt()
-    print("utf-8 string has been written to ",
-          single_bib2str.dictionary["ID"] + ".txt")
+    print("utf-8 string has been written to ", single_bib2str.dictionary["ID"] + ".txt")
