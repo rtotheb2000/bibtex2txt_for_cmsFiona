@@ -6,7 +6,7 @@ This python script converts a single bibtex file to a tab stop seperated text fi
 
 **pybtex** (https://pypi.python.org/pypi/pybtex)
 
-If you are missing this module, I recomment using pip (https://pypi.python.org/pypi/pip) to install it.
+To install all dependencies type `pip install -r requirements.txt`
 
 ## How to use
 
